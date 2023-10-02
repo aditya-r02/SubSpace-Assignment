@@ -13,7 +13,7 @@ INSTALLATION-
 1. install node if not previously installed from https://nodejs.org/en
 2. open terminal and set current directory to this folder
 3. run the following command
-	npm init
+	npm i
 
 ROUTES-
 This application has two routes.
