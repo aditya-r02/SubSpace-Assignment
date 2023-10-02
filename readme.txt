@@ -12,7 +12,8 @@ Express.js, Node.js
 INSTALLATION-
 1. install node if not previously installed from https://nodejs.org/en
 2. open terminal and set current directory to this folder
-3. run the following command
+3. run the following commands
+	npm init
 	npm i
 
 ROUTES-
